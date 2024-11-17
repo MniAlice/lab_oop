@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Appointments>
+    <Appointment>
+        <ФИО>Куликов Ф.Р</ФИО>
+        <Время>15:00</Время>
+        <Врач>Иванов А.У</Врач>
+    </Appointment>
+    <Appointment>
+        <ФИО>Барченков А.У</ФИО>
+        <Время>14:00</Время>
+        <Врач>Муров К.Л</Врач>
+    </Appointment>
+    <Appointment>
+        <ФИО>Берестов Ф.Н</ФИО>
+        <Время>12:000</Время>
+        <Врач>Лимонов О.Р</Врач>
+    </Appointment>
+    <Appointment>
+        <ФИО>gfjj</ФИО>
+        <Время>fgj</Время>
+        <Врач>gfjfg</Врач>
+    </Appointment>
+</Appointments>
